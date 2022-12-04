@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **janhavitripathi2003@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I think am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/janhavitripat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janhavitripat18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janhavi tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhavi tripathi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/janhavitripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="janhavitripathi" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
